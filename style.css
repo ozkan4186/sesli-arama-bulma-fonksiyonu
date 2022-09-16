@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.label{
+    border: 2px solid red;
+    padding: 0.5rem 8rem;
+  
+}
+.container{
+    margin-left: 2rem;
+    margin-top: 5rem;
+}
+.button{
+    padding: 0.5rem 0.5rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+.span2{
+    color: red;
+}
