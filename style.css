@@ -1,47 +1,42 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrgC6uuIAex8Zkzv400uj4-pMKUNPQotMtRw&usqp=CAU);
-    min-width: 100%;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrgC6uuIAex8Zkzv400uj4-pMKUNPQotMtRw&usqp=CAU);
+  min-width: 100%;
 }
 
 .container {
-    border: 2px solid;
-    padding: 10rem;
-    box-shadow: 1px 10px red;
-    
-    text-align: center;
-    margin-top: 5rem;
-
-
+  border: 2px solid;
+  padding: 10rem;
+  box-shadow: 1px 10px red;
+  text-align: center;
+  margin-top: 5rem;
 }
-.text{
-    padding: 0.5rem 8rem;
-    padding-left: -5rem;
+.text {
+    border: 2px solid red;
+    transform: scaleX(180deg);
+  padding-right: 3rem;
+  padding:0.5rem 1rem
+  
+  
 }
-
 h1 {
-    color: white;
-    font-size:5rem;
-    transition: color 1sn;
- 
-    
+  color: white;
+  font-size: 5rem;
+  transition: color 1sn;
 }
-h1:hover{
-    color: aqua;
-    cursor: pointer;
-
- 
-    
+h1:hover {
+  color: aqua;
+  cursor: pointer;
 }
-.btn{
-    padding: 0.2rem 0.5rem;
-    border-radius: 5px;
-    background-color: chartreuse;
-    cursor: pointer;
-    color: red;
+.btn {
+  padding: 0.2rem 0.5rem;
+  border-radius: 5px;
+  background-color: chartreuse;
+  cursor: pointer;
+  color: red;
 }
