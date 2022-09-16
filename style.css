@@ -34,9 +34,14 @@ h1:hover {
   cursor: pointer;
 }
 .btn {
-  padding: 0.2rem 0.5rem;
-  border-radius: 5px;
+  padding: 1rem 1rem;
+  border-radius: 10px;
   background-color: chartreuse;
   cursor: pointer;
   color: red;
+}
+#span{
+    font-size: 1.2rem;
+    color:blue;
+    font-weight:bold;
 }

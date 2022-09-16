@@ -1,4 +1,6 @@
-const 
+const text=document.querySelector(".text")
+const btn=document.querySelector(".btn")
+const sonuc=document.querySelector(".sonuc")
 
 
 
